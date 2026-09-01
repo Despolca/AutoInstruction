@@ -1,0 +1,12 @@
+{
+  "display_name": "Tự động Gửi Lệnh",
+  "description": "Tự động đính kèm các lệnh đã bật trước khi gửi tin nhắn.",
+  "version": "2.0",
+  "author": "Veridis",
+  "loading_order": 20,
+  "requires": [],
+  "optional": [],
+  "js": "index.js",
+  "css": "style.css",
+  "homepage": "https://github.com/Despolca/AutoInstruction"
+}
